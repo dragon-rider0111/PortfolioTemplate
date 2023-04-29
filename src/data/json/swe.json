@@ -1,0 +1,478 @@
+{
+  "metadata": {
+    "title": "Apprenticeship in Software Engineering",
+    "subtitle": "Specialization in Data Science",
+    "info": "Long story short, I've been thinking about pursuing a postgraduate degree in software engineering for a while now but, eventually, I've decided to go my way. So, here it is, my self-curated apprenticeship program in software engineering! I will be attending courses listed below and will be doing practical assignments throughout my studies but it won't necessarily be my priority to pursue any form of 'certificate of completion'. We'll all see how it goes. :)"
+  },
+  "semesters": [
+    {
+      "name": "1. Semester",
+      "dates": {
+        "start": "2022-01-01",
+        "end": "2022-06-30"
+      },
+      "courses": [
+        {
+          "courseName": "SWE 510 Introduction to Computer Science",
+          "sections": [
+            {
+              "title": "Introduction to Computer Science and Programming Specialization",
+              "url": "https://www.coursera.org/specializations/introduction-computer-science-programming",
+              "progress": {
+                "completed": 0,
+                "total": 3
+              }
+            },
+            {
+              "title": "Computer Science Algorithms",
+              "url": "https://brilliant.org/paths/computer-science-algorithms/",
+              "progress": {
+                "completed": 1,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 513 Introduction to Object Oriented Programming",
+          "sections": [
+            {
+              "title": "Object Oriented Programming in Java Specialization",
+              "url": "https://www.coursera.org/specializations/object-oriented-programming",
+              "progress": {
+                "completed": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 515 Database Systems",
+          "sections": [
+            {
+              "title": "Database Systems Specialization",
+              "url": "https://www.coursera.org/specializations/database-systems",
+              "progress": {
+                "completed": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 517 Principles of Software Engineering",
+          "sections": [
+            {
+              "title": "Java Programming and Software Engineering Fundamentals Specialization",
+              "url": "https://www.coursera.org/specializations/java-programming",
+              "progress": {
+                "completed": 0,
+                "total": 5
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "MAT 510 Mathematics I",
+          "sections": [
+            {
+              "title": "Math Foundations",
+              "url": "https://brilliant.org/paths/math-foundations/",
+              "progress": {
+                "completed": 3,
+                "total": 7
+              }
+            },
+            {
+              "title": "Logic Foundations",
+              "url": "https://brilliant.org/paths/logic-foundations/",
+              "progress": {
+                "completed": 2,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2. Semester",
+      "dates": {
+        "start": "2022-07-01",
+        "end": "2022-12-31"
+      },
+      "courses": [
+        {
+          "courseName": "SWE 520 Python Programming",
+          "sections": [
+            {
+              "title": "Python 3 Programming Specialization",
+              "url": "https://www.coursera.org/specializations/python-3-programming",
+              "progress": {
+                "completed": 5,
+                "total": 5
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 523 Software Requirements Engineering",
+          "sections": [
+            {
+              "title": "Requirements Engineering: Secure Software Specifications Specialization",
+              "url": "https://www.coursera.org/specializations/requirements-engineering-secure-software",
+              "progress": {
+                "completed": 0,
+                "total": 5
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 525 Software Development Lifecycle",
+          "sections": [
+            {
+              "title": "Software Development Lifecycle Specialization",
+              "url": "https://www.coursera.org/specializations/software-development-lifecycle",
+              "progress": {
+                "completed": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 527 Software Design and Architecture",
+          "sections": [
+            {
+              "title": "Software Design and Architecture Specialization",
+              "url": "https://www.coursera.org/specializations/software-design-architecture",
+              "progress": {
+                "completed": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "MAT 520 Mathematics II",
+          "sections": [
+            {
+              "title": "Intermediate Math",
+              "url": "https://brilliant.org/paths/intermediate-math/",
+              "progress": {
+                "completed": 0,
+                "total": 8
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "3. Semester",
+      "dates": {
+        "start": "2023-01-01",
+        "end": "2023-06-30"
+      },
+      "courses": [
+        {
+          "courseName": "SWE 530 Introduction to Operating Systems",
+          "sections": [
+            {
+              "title": "Introduction to Operating Systems Specialization",
+              "url": "https://www.coursera.org/specializations/codio-introduction-operating-systems",
+              "progress": {
+                "completed": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 533 Secure Software Development",
+          "sections": [
+            {
+              "title": "Secure Coding Practices Specialization",
+              "url": "https://www.coursera.org/specializations/secure-coding-practices",
+              "progress": {
+                "completed": 2,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 535 Managing Software Development",
+          "sections": [
+            {
+              "title": "Software Product Management Specialization",
+              "url": "https://www.coursera.org/specializations/product-management",
+              "progress": {
+                "completed": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+
+        {
+          "courseName": "SWE 537 Software Verification and Validation",
+          "sections": [
+            {
+              "title": "Software Testing and Automation Specialization",
+              "url": "https://www.coursera.org/specializations/software-testing-automation",
+              "progress": {
+                "completed": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "MAT 530 Mathematics III",
+          "sections": [
+            {
+              "title": "Road to Calculus + Advanced Math",
+              "url": "https://brilliant.org/paths/calculus-advanced-math/",
+              "progress": {
+                "completed": 0,
+                "total": 9
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "4. Semester",
+      "dates": {
+        "start": "2023-07-01",
+        "end": "2023-12-31"
+      },
+      "courses": [
+        {
+          "courseName": "SWE 540 Computer Systems Security",
+          "sections": [
+            {
+              "title": "Introduction to Cyber Security Specialization",
+              "url": "https://www.coursera.org/specializations/intro-cyber-security",
+              "progress": {
+                "completed": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 543 Data Structures and Algorithms",
+          "sections": [
+            {
+              "title": "Data Structures and Algorithms Specialization",
+              "url": "https://www.coursera.org/specializations/data-structures-algorithms",
+              "progress": {
+                "completed": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 545 Human-Computer Interaction",
+          "sections": [
+            {
+              "title": "Interaction Design Specialization",
+              "url": "https://www.coursera.org/specializations/interaction-design",
+              "progress": {
+                "completed": 0,
+                "total": 8
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 547 Computer Networking",
+          "sections": [
+            {
+              "title": "Computer Communications Specialization",
+              "url": "https://www.coursera.org/specializations/computer-communications",
+              "progress": {
+                "completed": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "MAT 540 Mathematics IV",
+          "sections": [
+            {
+              "title": "College Mathematics",
+              "url": "https://brilliant.org/paths/college-mathematics/",
+              "progress": {
+                "completed": 0,
+                "total": 6
+              }
+            },
+            {
+              "title": "Infinity & Number Theory",
+              "url": "https://brilliant.org/paths/infinity-number-theory/",
+              "progress": {
+                "completed": 0,
+                "total": 3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "5. Semester",
+      "dates": {
+        "start": "2024-01-01",
+        "end": "2024-06-30"
+      },
+      "courses": [
+        {
+          "courseName": "SWE 550 Cloud Computing",
+          "sections": [
+            {
+              "title": "Cloud Computing Specialization",
+              "url": "https://www.coursera.org/specializations/cloud-computing",
+              "progress": {
+                "completed": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 553 Blockchain Technology",
+          "sections": [
+            {
+              "title": "Blockchain Specialization",
+              "url": "https://www.coursera.org/specializations/blockchain",
+              "progress": {
+                "completed": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 550 Introduction to Statistics and Probability",
+          "sections": [
+            {
+              "title": "Probability & Statistics",
+              "url": "https://brilliant.org/paths/probability-statistics/",
+              "progress": {
+                "completed": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 553 Introduction to Data Science",
+          "sections": [
+            {
+              "title": "Data Science Specialization",
+              "url": "https://www.coursera.org/specializations/jhu-data-science",
+              "progress": {
+                "completed": 0,
+                "total": 10
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "MAT 550 Discrete Mathematics",
+          "sections": [
+            {
+              "title": "Introduction to Discrete Mathematics for Computer Science Specialization",
+              "url": "https://www.coursera.org/specializations/discrete-mathematics",
+              "progress": {
+                "completed": 0,
+                "total": 5
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "6. Semester",
+      "dates": {
+        "start": "2024-07-01",
+        "end": "2024-12-31"
+      },
+      "courses": [
+        {
+          "courseName": "DSC 560 Machine Learning",
+          "sections": [
+            {
+              "title": "Machine Learning Specialization",
+              "url": "https://www.coursera.org/specializations/machine-learning",
+              "progress": {
+                "completed": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 563 Applied Data Science",
+          "sections": [
+            {
+              "title": "Applied Data Science with Python Specialization",
+              "url": "https://www.coursera.org/specializations/data-science-python",
+              "progress": {
+                "completed": 0,
+                "total": 5
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 565 Computer Vision",
+          "sections": [
+            {
+              "title": "First Principles of Computer Vision Specialization",
+              "url": "https://www.coursera.org/specializations/firstprinciplesofcomputervision",
+              "progress": {
+                "completed": 0,
+                "total": 5
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 567 Autonomous Systems Engineering",
+          "sections": [
+            {
+              "title": "Self-Driving Cars Specialization",
+              "url": "https://www.coursera.org/specializations/self-driving-cars",
+              "progress": {
+                "completed": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "MAT 560 Mathematics for Machine Learning",
+          "sections": [
+            {
+              "title": "Mathematics for Machine Learning Specialization",
+              "url": "https://www.coursera.org/specializations/mathematics-machine-learning",
+              "progress": {
+                "completed": 0,
+                "total": 3
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
